@@ -1,1 +1,5 @@
-pip install pandas numpy scikit-learn tensorflow matplotlib
+pandas
+numpy
+scikit-learn
+tensorflow
+matplotlib
