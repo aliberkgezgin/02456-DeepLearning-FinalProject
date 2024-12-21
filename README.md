@@ -1,13 +1,17 @@
 # 02456-DeepLearning-FinalProject
 This is the Final Project of 02456 Deep Learning Course - Project 19 News Recommender System- Group 55
 Here we have used demo dataset.
+
 Paths required for data:
 
 home/thisRepo/src/jupyter_file_to_run.ipynb
 
 home/data/demo/train
+
 home/data/demo/validation
+
 home/data/demo/articles.parquet
+
 home/data/artifacts/Ekstra_Bladet_word2vec
 
 ABOUT THE PROJECT
