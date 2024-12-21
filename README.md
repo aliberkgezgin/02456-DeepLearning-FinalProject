@@ -5,7 +5,7 @@ Here we have used demo dataset.
 
 Paths required for data:
 
-home/thisRepo/src/jupyter_file_to_run.ipynb
+home/thisRepo/src/NewsRecommenderSystemP19Final.ipynb
 
 home/data/demo/train
 
