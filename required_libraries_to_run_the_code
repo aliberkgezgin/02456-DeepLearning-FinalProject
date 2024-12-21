@@ -1,5 +1,1 @@
-1-pandas (for data manipulation)
-2-numpy (for numeric arrays and computations)
-3-scikit-learn (for metrics like roc_auc_score and tools such as pairwise.cosine_similarity)
-4-tensorflow (for deep learning models, layers, training utilities, etc.)
-5-matplotlib (for any plotting tasks, e.g., if you visualize results)
+pip install pandas numpy scikit-learn tensorflow matplotlib
